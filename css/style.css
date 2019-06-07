@@ -1,0 +1,25 @@
+/* This is an example of external css. */
+
+/* This is a css selsector, with h1 been the css selector/link, color been the property and green been the value. */
+/* The property/value pair is kind of like the key/value pair. */
+h1{
+    color: green;
+}
+
+body{
+    background-color: #f4f4f4;
+    color: #555555;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.block{
+    float: left;
+    width: 33.3%;
+    border: 2px solid #ccc;
+    padding: 10px;
+}
+
+.p-box{
+    
+}
